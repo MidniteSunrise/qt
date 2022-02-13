@@ -2,7 +2,7 @@
 
 > A dark theme for [QT](https://www.qt.io/).
 
-![Screenshot](https://raw.githubusercontent.com/minimal-mistakes/qt/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/minimal-mistakes/qt/main/screenshot.png)
 
 ## Install
 
