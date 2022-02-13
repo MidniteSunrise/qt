@@ -1,16 +1,16 @@
-# Minimal-Mistakes for [Kitty](https://sw.kovidgoyal.net/kitty/)
+# Minimal-Mistakes for [QT](https://www.qt.io/)
 
-> A dark theme for [Kitty](https://sw.kovidgoyal.net/kitty/).
+> A dark theme for [QT](https://www.qt.io/).
 
-![Screenshot](https://raw.githubusercontent.com/minimal-mistakes/kitty/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/minimal-mistakes/qt/master/screenshot.png)
 
 ## Install
 
-All instructions can be found at [minimal-mistakes/kitty](https://minimal-mistakes.xyz/apps/terminals/kitty).
+All instructions can be found at [minimal-mistakes/qt](https://minimal-mistakes.xyz/apps/terminals/qt).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/minimal-mistakes/kitty/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/minimal-mistakes/qt/graphs/contributors).
 
 | [![Minimal-Mistakes](https://avatars.githubusercontent.com/u/99121492?s=125)](https://github.com/Minimal-Mistakes) |
 | ------------------------------------------------------------------------------------------------------------------ |
