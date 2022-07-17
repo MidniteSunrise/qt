@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [minimal-mistakes/qt](https://minimal-mistakes.xyz/apps/terminals/qt).
+All instructions can be found at [minimal-mistakes/qt](https://minimal-mistakes.xyz/apps/themes/qt).
 
 ## Team
 
